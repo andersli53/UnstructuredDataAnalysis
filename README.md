@@ -15,7 +15,10 @@ Required Packages:
 - scikit-learn 1.6.0
 - The code was run on
 
-- Windows 11 Desktop
-- 8 cores CPU
-- 16 GB Memory
+Windows 11 Desktop
+
+8 cores CPU
+
+16 GB Memory
+  
 The model was trained without GPU. Runtime around 1.5 hour
