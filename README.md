@@ -1,5 +1,9 @@
 # UnstructuredDataAnalysis
 
+Datasets:
+- **train-balanced.csv** and **test-balanced.csv** are sample data that is filtered from the original SARC datasets that are much larger in size due to the file size restriction on GitHub. The original datasets can be found on https://nlp.cs.princeton.edu/old/SARC/1.0/main/
+- **sentiment_analysis_dataset.csv** is the financial_phrasebank dataset for sentiment analysis model. The jupyter notebook loads the dataset using *dataset.load_dataset*
+
 Required Packages:
 
 - Python >= 3.11.9
